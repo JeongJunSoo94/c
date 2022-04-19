@@ -1,4 +1,0 @@
-﻿  ConsoleProj4.c
-D:\MVAT\ConsoleProj1\ConsoleProj4.c(67,8): warning C4013: 'system' undefined; assuming extern returning int
-D:\MVAT\ConsoleProj1\ConsoleProj4.c(68,2): warning C4098: 'main': 'void' function returning a value
-  ConsoleProj1.vcxproj -> D:\MVAT\ConsoleProj1\Debug\ConsoleProj1.exe
